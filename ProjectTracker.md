@@ -1,8 +1,8 @@
 ### MVP
 - Responsive
-  - [ ] Mobile first
-  - [ ] Tablet
-  - [ ] Desktop
+   * Mobile first
+   * Tablet
+   * Desktop
   
 - Build Welcome Page - **DRI: Justin** 
 	- [ ] Add large clean background graphic
